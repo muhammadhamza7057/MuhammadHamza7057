@@ -5,7 +5,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=581b45&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Fullstack+Web+Developer;AI+Enthusiast;Innovator" alt="Typing animation" />
 </h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="coding animation" width="400" src="https://cdn.dribbble.com/users/373903/screenshots/6581243/avento.gif">
+
+<p align="center"><em>“Please don’t judge my skills just by how this page looks. The real work speaks for itself!”</em></p>
 
 ---
 
@@ -47,19 +49,20 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
+<h3 align="center">📊 GitHub Stats:</h3>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadhamza7057&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+</p>
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhamza7057&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadhamza7057&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
-<h3 align="center">🚀 Let's Create Something Amazing!</h3>
+<h3 align="center">🚀 Let's Create Something Amazing Together!</h3>
 <p align="center">
   <a href="mailto:muhammadhamza7057@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-brightgreen?style=for-the-badge" alt="Email" /></a>
   <a href="https://linkedin.com/in/muhammadhamza7057/"><img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge" alt="LinkedIn" /></a>
