@@ -75,61 +75,72 @@ I'm actively seeking **internships** and **entry-level positions** where I can c
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=muhammadhamza7057&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=muhammadhamza7057&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadhamza7057&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadhamza7057&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhamza7057&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhamza7057&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=muhammadhamza7057&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=muhammadhamza7057&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
+</p>
 
 ---
 
 ## 📈 Contribution Graph
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadhamza7057&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadhamza7057&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</p>
 
 ---
 
-## 💡 Recent Projects Highlight
+## 💡 Featured Projects
 
-<div align="center">
+<p align="center">
+  <a href="https://muhammad-hamza-dev.vercel.app">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadhamza7057&repo=portfolio&theme=tokyonight&hide_border=true" alt="Portfolio Repo" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadhamza7057&repo=portfolio&theme=tokyonight&hide_border=true" alt="Portfolio Repo" />
+</p>
 
-<!-- Add more repo cards for your best projects by duplicating the img tag above and changing the repo name -->
-
-</div>
+<!-- Add more featured projects here:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadhamza7057&repo=YOUR-REPO-NAME&theme=tokyonight&hide_border=true" alt="Project Name" />
+</p>
+-->
 
 ---
 
 ## 🤝 Let's Connect & Collaborate
 
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammad-hamza-dev.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadhamza7057/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadhamza7057@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadHamza7057)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/m.hamza_02)
-
-</div>
+<p align="center">
+  <a href="https://muhammad-hamza-dev.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammadhamza7057/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:muhammadhamza7057@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/MuhammadHamza7057">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://instagram.com/m.hamza_02">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
 ---
 
