@@ -139,17 +139,17 @@ const muhammadHamza = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=muhammadhamza7057&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadhamza7057&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=muhammadhamza7057&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9" alt=""/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadhamza7057&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F85D7F" alt="k"/>
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhamza7057&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhamza7057&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&langs_count=8" alt=""/>
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadhamza7057&theme=high-contrast&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF" alt="Contribution Graph"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammadhamza7057&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=muhammadhamza7057&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt=""/>
 </div>
 
 ---
