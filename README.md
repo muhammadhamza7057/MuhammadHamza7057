@@ -1,75 +1,154 @@
-![logo](https://github.com/MuhammadHamza7057/MuhammadHamza7057/blob/main/M.Hamza%20Banner.png)
+<div align="center">
 
-<h1 align="center">🌟 Hi, I'm M. Hamza!</h1>
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=581b45&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Fullstack+Web+Developer;AI+Enthusiast;Innovator" alt="Typing animation" />
-</h3>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Muhammad%20Hamza&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Full-Stack%20Developer%20|%20AI%20Enthusiast&descAlignY=55&descSize=20)
 
-<img align="right" alt="coding animation" width="400" src="https://cdn.dribbble.com/users/373903/screenshots/6581243/avento.gif">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=800&lines=Building+Scalable+Web+Applications;Exploring+AI+%26+Machine+Learning;Open+to+Exciting+Opportunities;Let's+Create+Something+Amazing!)](https://git.io/typing-svg)
 
-<p align="center"><em>“Please don’t judge my skills by appearances—my work speaks louder than this page!”</em></p>
+</div>
 
 ---
 
-<h3 align="left">💬 Connect with Me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/muhammadhamza7057/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/m.hamza_02" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:muhammadhamza7057@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/MuhammadHamza7057" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+## 👨‍💻 About Me
+
+```javascript
+const hamza = {
+    location: "Pakistan 🇵🇰",
+    education: "Software Engineering Student",
+    currentFocus: ["Full-Stack Development", "AI/ML", "Cloud Technologies"],
+    workingOn: "Building innovative web solutions",
+    lookingFor: "Internship & Full-time Opportunities",
+    funFact: "I turn coffee into code ☕ → 💻"
+};
+```
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+### 🎯 What I Do
+
+- 🚀 Build **responsive, user-centric** web applications
+- 💡 Create **efficient, scalable** backend systems
+- 🤖 Explore **AI/ML** integration in real-world projects
+- 📱 Develop **cross-platform** solutions
+- 🔧 Optimize **performance** and user experience
+- 📚 Continuously learning and adapting to new technologies
+
+### 💼 Open to Opportunities
+I'm actively seeking **internships** and **entry-level positions** where I can contribute my skills, learn from experienced professionals, and grow as a software engineer.
 
 ---
 
-<h3 align="left">🛠️ Tech Stack & Skills:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/></a>
-  <a href="https://vitejs.dev/" target="_blank"><img src="https://vitejs.dev/logo.svg" alt="Vite" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/></a>
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/></a>
-  <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://www.cplusplus.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <a href="https://www.npmjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
-</p>
+## 🛠️ Tech Arsenal
+
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-<h3 align="center">📊 GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadhamza7057&show_icons=true&count_private=true&theme=tokyonight" alt="" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhamza7057&layout=compact&theme=tokyonight" alt="" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadhamza7057&theme=tokyonight" alt="GitHub Streak" />
-</p>
+## 📊 GitHub Analytics
 
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadhamza7057&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammadhamza7057&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhamza7057&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+</div>
 
 ---
 
-<h3 align="center">🚀 Let's Build Amazing Things Together!</h3>
-<p align="center">
-  <a href="mailto:muhammadhamza7057@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/muhammadhamza7057/"><img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/m.hamza_02"><img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://github.com/MuhammadHamza7057"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=muhammadhamza7057&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadhamza7057&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 💡 Recent Projects Highlight
+
+<div align="center">
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=muhammadhamza7057&repo=portfolio&theme=tokyonight&hide_border=true)](https://github.com/muhammadhamza7057)
+
+<!-- Add more repo cards for your best projects -->
+
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadhamza7057/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadhamza7057@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadHamza7057)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/m.hamza_02)
+
+</div>
+
+---
+
+## 📫 Quick Contact
+
+```yaml
+name: Muhammad Hamza
+email: muhammadhamza7057@gmail.com
+linkedin: linkedin.com/in/muhammadhamza7057
+portfolio: [Your Portfolio URL] # Add your portfolio link
+availability: Open to opportunities
+response_time: Within 24 hours
+```
+
+---
+
+<div align="center">
+
+### 💬 "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+![Profile Views](https://komarev.com/ghpvc/?username=muhammadhamza7057&color=blueviolet&style=for-the-badge)
+
+### ⭐ From [Muhammad Hamza](https://github.com/MuhammadHamza7057)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)
+
+</div>
