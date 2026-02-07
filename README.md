@@ -7,23 +7,23 @@
 
 <img align="right" alt="coding animation" width="400" src="https://cdn.dribbble.com/users/373903/screenshots/6581243/avento.gif">
 
-<p align="center"><em>“Please don’t judge my skills just by how this page looks. The real work speaks for itself!”</em></p>
+<p align="center"><em>“Please don’t judge my skills by appearances—my work speaks louder than this page!”</em></p>
 
 ---
 
 <h3 align="left">💬 Connect with Me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/muhammadhamza7057/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" style="color:#0A66C2"/>
   </a>
   <a href="https://instagram.com/m.hamza_02" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" alt="Instagram" height="30" width="30" style="color:#E4405F"/>
   </a>
   <a href="mailto:muhammadhamza7057@gmail.com" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/gmail.svg" alt="Email" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Email" height="30" width="30" style="color:#D14836"/>
   </a>
   <a href="https://github.com/MuhammadHamza7057" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg" alt="GitHub" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt="GitHub" height="30" width="30" style="color:#181717"/>
   </a>
 </p>
 
@@ -45,13 +45,15 @@
   <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://www.npmjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
 </p>
 
 ---
 
 <h3 align="center">📊 GitHub Stats:</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadhamza7057&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadhamza7057&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
 </p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhamza7057&layout=compact&theme=radical" alt="Top Languages" />
@@ -62,7 +64,7 @@
 
 ---
 
-<h3 align="center">🚀 Let's Create Something Amazing Together!</h3>
+<h3 align="center">🚀 Let's Build Amazing Things Together!</h3>
 <p align="center">
   <a href="mailto:muhammadhamza7057@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-brightgreen?style=for-the-badge" alt="Email" /></a>
   <a href="https://linkedin.com/in/muhammadhamza7057/"><img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge" alt="LinkedIn" /></a>
