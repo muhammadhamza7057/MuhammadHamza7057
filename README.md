@@ -76,8 +76,8 @@ I'm actively seeking **internships** and **entry-level positions** where I can c
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=muhammadhamza7057&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadhamza7057&theme=tokyonight&hide_border=true" alt="" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=muhammadhamza7057&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadhamza7057&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -89,7 +89,7 @@ I'm actively seeking **internships** and **entry-level positions** where I can c
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammadhamza7057&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="" />
+  <img src="https://github-profile-trophy.vercel.app/?username=muhammadhamza7057&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -111,14 +111,14 @@ I'm actively seeking **internships** and **entry-level positions** where I can c
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadhamza7057&repo=portfolio&theme=tokyonight&hide_border=true" alt="Portfolio Repo" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadhamza7057&repo=BPA-Automated-FYP-Portal&theme=tokyonight&hide_border=true" alt="BPA FYP Portal" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadhamza7057&repo=Frontend-Development&theme=tokyonight&hide_border=true" alt="Frontend Development" />
 </p>
 
-<!-- Add more featured projects here:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadhamza7057&repo=YOUR-REPO-NAME&theme=tokyonight&hide_border=true" alt="Project Name" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadhamza7057&repo=OOP-in-Cpp-and-Java&theme=tokyonight&hide_border=true" alt="OOP Projects" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadhamza7057&repo=Jira-Projects&theme=tokyonight&hide_border=true" alt="Jira Projects" />
 </p>
--->
 
 ---
 
