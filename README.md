@@ -59,10 +59,14 @@ I'm actively seeking **internships** and **entry-level positions** where I can c
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-0089D6?style=for-the-badge&logo=icloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -73,11 +77,11 @@ I'm actively seeking **internships** and **entry-level positions** where I can c
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadhamza7057&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+<img src="https://github-readme-stats.vercel.app/api?username=muhammadhamza7057&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammadhamza7057&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadhamza7057&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhamza7057&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhamza7057&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 </div>
 
@@ -87,7 +91,7 @@ I'm actively seeking **internships** and **entry-level positions** where I can c
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=muhammadhamza7057&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)
+<img src="https://github-profile-trophy.vercel.app/?username=muhammadhamza7057&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
 
 </div>
 
@@ -97,7 +101,7 @@ I'm actively seeking **internships** and **entry-level positions** where I can c
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadhamza7057&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadhamza7057&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 
 </div>
 
@@ -107,9 +111,9 @@ I'm actively seeking **internships** and **entry-level positions** where I can c
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=muhammadhamza7057&repo=portfolio&theme=tokyonight&hide_border=true)](https://github.com/muhammadhamza7057)
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadhamza7057&repo=portfolio&theme=tokyonight&hide_border=true" alt="Portfolio Repo" />
 
-<!-- Add more repo cards for your best projects -->
+<!-- Add more repo cards for your best projects by duplicating the img tag above and changing the repo name -->
 
 </div>
 
@@ -119,6 +123,7 @@ I'm actively seeking **internships** and **entry-level positions** where I can c
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammad-hamza-dev.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadhamza7057/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadhamza7057@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadHamza7057)
@@ -134,7 +139,7 @@ I'm actively seeking **internships** and **entry-level positions** where I can c
 name: Muhammad Hamza
 email: muhammadhamza7057@gmail.com
 linkedin: linkedin.com/in/muhammadhamza7057
-portfolio: [Your Portfolio URL] # Add your portfolio link
+portfolio: muhammad-hamza-dev.vercel.app
 availability: Open to opportunities
 response_time: Within 24 hours
 ```
@@ -145,7 +150,7 @@ response_time: Within 24 hours
 
 ### 💬 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-![Profile Views](https://komarev.com/ghpvc/?username=muhammadhamza7057&color=blueviolet&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=muhammadhamza7057&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 
 ### ⭐ From [Muhammad Hamza](https://github.com/MuhammadHamza7057)
 
